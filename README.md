@@ -1,6 +1,14 @@
-# Installation Steps
+### Source video
+    Papa React https://www.youtube.com/watch?v=VA-UN_6oNG8
 
+## Sources
+    HeroIcon - https://heroicons.com/
+    Products - https://fakestoreapi.com/
+    Tailwind css - https://tailwindcss.com/
+    react-responsive-carousel for the banner component - https://www.npmjs.com/package/react-responsive-carousel
 
+    currency external package - https://www.npmjs.com/package/react-currency-formatter
+                                npm i react-currency-formatter
 
 ## Using npm
 
@@ -12,17 +20,3 @@ Run commands
 2) ```npm run dev```
 
 
-## Or using yarn
-
-Run commands 
-
-1) ```npm install --global yarn```
-
-2) ```yarn install```
-
-3) ```yarn run dev```
-
-
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
